@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 2rem;
+    text-align: center;
+}
+form {
+    margin-bottom: 1rem;
+}
+input {
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+button {
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+#userList {
+    list-style: none;
+    padding: 0;
+}
+#userList li {
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+}
